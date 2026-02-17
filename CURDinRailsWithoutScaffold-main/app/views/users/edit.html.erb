@@ -1,0 +1,13 @@
+<h1>Edit User</h1>
+
+<% if alert %><div class="alert"><%= alert %></div><% end %>
+
+<form action="/users/<%= user.id %>" method="POST">
+  <input type="hidden" name="_method" value="PATCH">
+  <p>Name:<br><input type="text" name="user[name]" value="<%= user.name %>"></p>
+  <p>Email:<br><input type="email" name="user[email]" value="<%= user.email %>"></p>
+  <p>Password:<br><input type="password" name="user[password]" value=""></p>
+  <input type="submit" value="Update User">
+</form>
+
+<a href="/users">Back</a>

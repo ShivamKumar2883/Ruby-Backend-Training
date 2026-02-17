@@ -1,0 +1,13 @@
+
+<table>
+<% @users.each do |std|%>
+<tr>
+<td> <%= link_to std.name, user_path(std)%></td>
+<td> <%= button_to 'Edit',edit_user_path(std), method:'get'%></td>
+<td> <%= button_to 'Remove',user_path(std), method:'delete', data: { confirm: 'Are you sure to delete?'} %></td>
+</tr>
+<% end %>
+
+<%= link_to "Add new User", new_user_path %>
+
+</table>

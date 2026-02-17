@@ -1,0 +1,6 @@
+id,name,email,phone_number,enquire_type_id,conference_id
+1,John Doe,contact@railsconf.com,1234567890,1,1
+2,Jane Smith,support@devopsworld.com,1234567890,2,2
+3,Mike Johnson,info@aisummit.io,1234567890,3,3
+4,Sarah Williams,contact@frontendconnect.dev,1234567890,4,4
+5,David Brown,support@datacon.tech,1234567890,5,5

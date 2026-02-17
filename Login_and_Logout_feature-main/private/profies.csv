@@ -1,0 +1,6 @@
+id,name,designation,address,phone_number,profile_pic,pincode,j_user_id
+1,Admin User,Conference Organizer,123 Admin St,+15550000001,admin.jpg,97201,1
+2,DevOps Manager,Event Coordinator,456 Manager Ave,+15550000002,devops.jpg,94101,2
+3,AI Director,Head of Events,789 Director Blvd,+15550000003,ai.jpg,02101,3
+4,Frontend Lead,Community Manager,321 Lead Lane,+15550000004,frontend.jpg,78701,4
+5,Data Chief,Operations Head,654 Data Dr,+15550000005,data.jpg,60601,5

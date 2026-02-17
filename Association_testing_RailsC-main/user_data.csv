@@ -1,0 +1,6 @@
+email,password,name,designation,address,phone_number,pincode,profile_pic
+rahul.sharma@example.com,Secure@1234,Rahul Sharma,Software Engineer,"123 MG Road, Bangalore",9876543210,560001,rahul.jpg
+priya.patel@example.com,Strong#2023,Priya Patel,Marketing Manager,"456 Hill View, Mumbai",8765432109,400001,priya.png
+arjun.singh@example.com,Pass$5678,Arjun Singh,Data Scientist,"789 Green Park, Delhi",7654321098,110001,
+ananya.gupta@example.com,Secret@9012,Ananya Gupta,UX Designer,"321 Lake Side, Hyderabad",6543210987,500001,ananya.jpg
+vikram.iyer@example.com,Private*3456,Vikram Iyer,Product Owner,"654 Cross Rd, Chennai",9432109876,600001,vikram.png

@@ -1,0 +1,5 @@
+User.create(name: "Shivam", email:"shivam011@gamil.com", password:"123")
+User.create(name: "Satyam", email:"satyam11@gamil.com", password:"123")
+User.create(name: "Ankita", email:"ankita12@gamil.com", password:"123")
+User.create(name: "Vevik", email:"vevik13@gamil.com", password:"123")
+User.create(name: "Mausam", email:"mausam89@gamil.com", password:"123")

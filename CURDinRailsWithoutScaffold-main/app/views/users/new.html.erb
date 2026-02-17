@@ -1,0 +1,12 @@
+<h1>Create New User</h1>
+
+<% if alert %><div class="alert"><%= alert %></div><% end %>
+
+<form action="/users" method="POST">
+  <p>Name:<br><input type="text" name="user[name]" value="<%= user.name %>"></p>
+  <p>Email:<br><input type="email" name="user[email]" value="<%= user.email %>"></p>
+  <p>Password:<br><input type="password" name="user[password]" value=""></p>
+  <input type="submit" value="Create User">
+</form>
+
+<a href="/users">Back</a>

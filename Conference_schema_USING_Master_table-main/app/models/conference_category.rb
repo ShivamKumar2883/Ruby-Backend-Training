@@ -1,0 +1,2 @@
+class ConferenceCategory < ApplicationRecord
+end

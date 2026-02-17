@@ -1,0 +1,2 @@
+class ConferenceMode < ApplicationRecord
+end

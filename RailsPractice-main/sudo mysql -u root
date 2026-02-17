@@ -1,0 +1,12 @@
+[0;1;32m●[0m mysql.service - MySQL Community Server
+     Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Sun 2025-07-13 22:38:43 IST; 10min ago
+   Main PID: 9690 (mysqld)
+     Status: "Server is operational"
+      Tasks: 39 (limit: 6832)
+     Memory: 353.6M
+     CGroup: /system.slice/mysql.service
+             └─9690 /usr/sbin/mysqld
+
+Jul 13 22:38:42 lappy-HP-Pavilion-Gaming-Laptop-15-ec0xxx systemd[1]: Starting MySQL Community Server...
+Jul 13 22:38:43 lappy-HP-Pavilion-Gaming-Laptop-15-ec0xxx systemd[1]: Started MySQL Community Server.

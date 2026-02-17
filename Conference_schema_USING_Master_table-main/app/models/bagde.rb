@@ -1,0 +1,2 @@
+class Bagde < ApplicationRecord
+end
